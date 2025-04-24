@@ -171,6 +171,5 @@ namespace TP4___PROGRA3
                 connection.Close();
             }
         }
-
     }
 }
