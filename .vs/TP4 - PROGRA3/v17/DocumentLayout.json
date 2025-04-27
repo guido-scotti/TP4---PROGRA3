@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\",
+  "WorkspaceRootPath": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\tp4 - progra3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|solutionrelative:tp4 - progra3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|c:\\users\\luka\\onedrive - frgp.utn.edu.ar\\escritorio\\tp4---progra3\\tp4 - progra3\\ejercicio2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|solutionrelative:tp4 - progra3\\ejercicio2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp4 - progra3\\tp4 - progra3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\tp4 - progra3\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|solutionrelative:tp4 - progra3\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\tp4 - progra3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|solutionrelative:tp4 - progra3\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|c:\\users\\scott\\onedrive\\desktop\\tp4 - progra3\\tp4 - progra3\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\tp4 - progra3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|solutionrelative:tp4 - progra3\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\tp4 - progra3\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DBBD761D-D1AC-4029-A9F7-BAA8CAA72ABE}|TP4 - PROGRA3\\TP4 - PROGRA3.csproj|solutionrelative:tp4 - progra3\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -22,46 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\TP4 - PROGRA3\\style.css",
-              "RelativeDocumentMoniker": "TP4 - PROGRA3\\style.css",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\TP4 - PROGRA3\\style.css",
-              "RelativeToolTip": "TP4 - PROGRA3\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-23T13:52:57.201Z",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio2.aspx.cs",
+              "RelativeDocumentMoniker": "TP4 - PROGRA3\\Ejercicio2.aspx.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio2.aspx.cs",
+              "RelativeToolTip": "TP4 - PROGRA3\\Ejercicio2.aspx.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:38:56.174Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ejercicio1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx.cs",
-              "RelativeDocumentMoniker": "TP4 - PROGRA3\\Ejercicio1.aspx.cs",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx.cs",
-              "RelativeToolTip": "TP4 - PROGRA3\\Ejercicio1.aspx.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T23:30:12.35Z",
-              "EditorCaption": ""
+              "Title": "Ejercicio2.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio2.aspx",
+              "RelativeDocumentMoniker": "TP4 - PROGRA3\\Ejercicio2.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio2.aspx",
+              "RelativeToolTip": "TP4 - PROGRA3\\Ejercicio2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T18:37:13.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\style.css",
+              "RelativeDocumentMoniker": "TP4 - PROGRA3\\style.css",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\style.css",
+              "RelativeToolTip": "TP4 - PROGRA3\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T13:52:57.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx.cs",
+              "RelativeDocumentMoniker": "TP4 - PROGRA3\\Ejercicio1.aspx.cs",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx.cs",
+              "RelativeToolTip": "TP4 - PROGRA3\\Ejercicio1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:30:12.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Ejercicio1.aspx",
-              "DocumentMoniker": "C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx",
+              "DocumentMoniker": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx",
               "RelativeDocumentMoniker": "TP4 - PROGRA3\\Ejercicio1.aspx",
-              "ToolTip": "C:\\Users\\scott\\OneDrive\\Desktop\\TP4 - PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx",
+              "ToolTip": "C:\\Users\\luka\\OneDrive - frgp.utn.edu.ar\\Escritorio\\TP4---PROGRA3\\TP4 - PROGRA3\\Ejercicio1.aspx",
               "RelativeToolTip": "TP4 - PROGRA3\\Ejercicio1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-22T23:12:46.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T23:12:46.916Z"
             }
           ]
         }

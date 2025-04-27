@@ -9,7 +9,7 @@ namespace TP4___PROGRA3
 {
     public partial class Ejercicio1 : System.Web.UI.Page
     {
-        private const string cadenaConexion = @"Data Source=DESKTOP-GUU4RQA\SQLEXPRESS;Initial Catalog=Viajes;Integrated Security=True;TrustServerCertificate=True";
+        private const string cadenaConexion = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=Viajes;Integrated Security=True;TrustServerCertificate=True";
 
         protected void Page_Load(object sender, EventArgs e)
         {
